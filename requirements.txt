@@ -1,0 +1,15 @@
+audio_recorder_streamlit==0.0.8
+document==1.0
+langchain==0.1.10
+langchain_community==0.0.25
+llama_index==0.10.15
+nest_asyncio==1.6.0
+openai==1.13.3
+Pillow==10.2.0
+PyAudio==0.2.14
+PyPDF2==3.0.1
+replicate==0.23.1
+sentence_transformers==2.3.1
+streamlit==1.31.0
+streamlit_chat==0.1.1
+tqdm==4.66.1
